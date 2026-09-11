@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<style>
+  .t { font-family: Arial, sans-serif; fill:#17365D; }
+  .h { font-size:18px; font-weight:700; }
+  .s { font-size:12px; }
+  .box { fill:#EAF0F7; stroke:#2F5597; stroke-width:2; rx:10; }
+  .dark { fill:#17365D; stroke:#17365D; stroke-width:2; rx:10; }
+  .white { fill:white; font-family:Arial, sans-serif; font-size:12px; font-weight:700; }
+  .arrow { stroke:#2F5597; stroke-width:2.2; fill:none; marker-end:url(#arrow); }
+</style>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+    <polygon points="0 0, 10 3.5, 0 7" fill="#2F5597"/>
+  </marker>
+</defs>
+<text x="20" y="32" class="t h">D365 in the enterprise ecosystem</text>
+<rect x="510" y="140" width="180" height="86" class="dark"/>
+<text x="600" y="176" text-anchor="middle" class="white" style="font-size:16px">Dynamics 365</text>
+<text x="600" y="198" text-anchor="middle" style="font-family:Arial,sans-serif;font-size:11px;fill:white">Sales | Service | Marketing</text>
+<rect x="60" y="70" width="170" height="68" class="box"/>
+<text x="145.0" y="97" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">ERP</text>
+<text x="145.0" y="118" text-anchor="middle" class="t s">Orders | inventory | finance</text>
+<line x1="145.0" y1="104.0" x2="600.0" y2="183.0" class="arrow"/>
+<rect x="60" y="235" width="170" height="68" class="box"/>
+<text x="145.0" y="262" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">MarTech</text>
+<text x="145.0" y="283" text-anchor="middle" class="t s">Campaigns | engagement</text>
+<line x1="145.0" y1="269.0" x2="600.0" y2="183.0" class="arrow"/>
+<rect x="335" y="315" width="170" height="68" class="box"/>
+<text x="420.0" y="342" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">Telephony</text>
+<text x="420.0" y="363" text-anchor="middle" class="t s">Call centre | caller context</text>
+<line x1="420.0" y1="349.0" x2="600.0" y2="183.0" class="arrow"/>
+<rect x="695" y="315" width="170" height="68" class="box"/>
+<text x="780.0" y="342" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">Knowledge Base</text>
+<text x="780.0" y="363" text-anchor="middle" class="t s">Service knowledge | reuse</text>
+<line x1="780.0" y1="349.0" x2="600.0" y2="183.0" class="arrow"/>
+<rect x="970" y="235" width="170" height="68" class="box"/>
+<text x="1055.0" y="262" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">Reporting</text>
+<text x="1055.0" y="283" text-anchor="middle" class="t s">LoB | executive | financial</text>
+<line x1="1055.0" y1="269.0" x2="600.0" y2="183.0" class="arrow"/>
+<rect x="970" y="70" width="170" height="68" class="box"/>
+<text x="1055.0" y="97" text-anchor="middle" class="t" style="font-weight:700;font-size:13px">Data / SQL</text>
+<text x="1055.0" y="118" text-anchor="middle" class="t s">Integration | reporting | quality</text>
+<line x1="1055.0" y1="104.0" x2="600.0" y2="183.0" class="arrow"/>
+</svg>
