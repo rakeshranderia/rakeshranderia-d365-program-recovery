@@ -1,5 +1,8 @@
 # D365 Program Recovery & Delivery
 
+> **Status:** Maintained reference toolkit  
+> **Last reviewed:** October 2026
+
 A practical case study of recovering and delivering a Microsoft Dynamics 365 customer platform after two unsuccessful vendor-led implementation attempts.
 
 The case study is intentionally organisation-neutral and focuses on the delivery method rather than the company.
