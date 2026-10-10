@@ -1,11 +1,13 @@
 # D365 Program Recovery & Delivery
 
-> **Status:** Maintained reference toolkit  
-> **Last reviewed:** October 2026
-
-A practical case study of recovering and delivering a Microsoft Dynamics 365 customer platform after two unsuccessful vendor-led implementation attempts.
+A practical case study of stabilising and delivering a Microsoft Dynamics 365 customer platform following earlier implementation difficulties.
 
 The case study is intentionally organisation-neutral and focuses on the delivery method rather than the company.
+
+> **Status:** Completed case study / reference material  
+> **Last reviewed:** October 2026
+
+---
 
 ## What it covers
 
@@ -15,7 +17,7 @@ The case study is intentionally organisation-neutral and focuses on the delivery
 - ERP, MarTech, SQL and reporting integration
 - Vendor risk, contract and commercial management
 - RACI, Steering Committee, RAID, matrix management and communications
-- Temporary and permanent recruitment for delivery and BAU
+- Temporary and permanent capability for delivery and BAU
 - UAT, OAT, training, cutover and go-live
 - Hypercare and transition to BAU
 - Cross-module, line-of-business and financial reporting
@@ -38,4 +40,8 @@ See [`docs/case-study.md`](docs/case-study.md).
 
 ## Purpose
 
-This repository is a public technical-leadership case study. It is not a product implementation guide and does not disclose the organisation, client data, commercial terms, architecture secrets or identifying information.
+This repository is a public technology-leadership case study.
+
+It focuses on transferable lessons around business ownership, delivery governance, vendor accountability, integration, adoption and operational transition.
+
+Organisation names, client data, commercial terms and identifying implementation details are intentionally excluded.
